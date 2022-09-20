@@ -1,5 +1,5 @@
 <header>
     <div class="headerFlex">
-        <img href="img/logo/"
+        <img src="img/logo/curio-03-geel-logo-rgb.png" />
     </div>
 </header>
