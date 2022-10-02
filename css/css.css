@@ -10,7 +10,7 @@
 }
 
 .headerFlex img{
-    width: 300px;
+    width: 400px;
     background-color: #717171;
 }
 
@@ -20,7 +20,11 @@
 }
 
 .IndelingImg img{
-    width: 1200px;
+    width: 968px;
+}
+
+.rooster img{
+  width: 968px;
 }
 
 .IndelingImg{
@@ -28,9 +32,46 @@
     justify-content: center;
 }
 
+.versnellen img{
+  width: 500px;
+}
+
+.versnellen{
+  display: flex;
+  flex-direction: row;
+}
+
+.vakkenTop{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.vakkenBottom{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.vakken{
+  display: flex;
+  flex-direction: column;
+}
+
+.vakken img{
+  width: 100px;
+}
+
 h1{
     display: flex;
     justify-content: center7;
+}
+
+.footerFlex p{
+  display: flex;
+  justify-content: center;
+  background-color: #717171;
+  color: #fcba03;
 }
 
 * {box-sizing:border-box}
